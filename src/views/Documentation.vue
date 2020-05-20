@@ -34,11 +34,10 @@
             </code>
             <br />
             <code>
-              username: id_client
-            </code>
-            <br />
-            <code>
-              password: secret_key
+              <ol>
+                <li>username: id_client</li>
+                <li>password: secret_key</li>
+              </ol>
             </code>
           </p>
         </b-col>
