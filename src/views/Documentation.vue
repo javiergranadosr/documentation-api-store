@@ -30,6 +30,10 @@
           <p>
             PASO: 3 Ingresar credenciales de tipo Basic Auth <br />
             <code>
+              Parámetros a pasar en postman:
+            </code>
+            <br />
+            <code>
               username: id_client
             </code>
             <br />
